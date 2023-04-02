@@ -4,7 +4,7 @@ import numpy as np
 from scipy.stats import norm
 
 
-chat_id = 123456 # Ваш chat ID, не меняйте название переменной
+chat_id = 385459798 # Ваш chat ID, не меняйте название переменной
 
 def confidence_interval(confidence_level, p_values):
     n = len(p_values)
